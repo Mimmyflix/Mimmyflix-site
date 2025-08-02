@@ -46,8 +46,7 @@
     <p>&copy; 2025 Mimmyflix_PLC. All rights reserved.</p>
   </footer>
 </body>
-</html>
-# Mimmyflix_PLC Website
+</html># Mimmyflix_PLC Website
 
 Welcome to the official repository for the **Mimmyflix_PLC** site.
 
